@@ -15,7 +15,7 @@
 - _James Sinclair_, [Functional JavaScript: How to use array reduce for more than just numbers](https://jrsinclair.com/articles/2019/functional-js-do-more-with-reduce/)
 - _Christopher Tran_, [5 Anti-Patterns to Avoid When Working With Collections in JavaScript](https://dev.to/jsmanifest/5-anti-patterns-to-avoid-when-working-with-collections-in-javascript-2fe3)
 - _Max Strübing_, [Rewriting functions with fold and reduce](https://maex.me/2019/04/rewriting-functions-with-fold-and-reduce/)
-
+- _Alex Permiakov_, [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://itnext.io/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 
 ## Videos
 
